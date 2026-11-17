@@ -1,3 +1,7 @@
+// Header Component
+// Displays the name of the personal blog.
+// Receives the blog name through props.
+// Connected to: App.jsx.
 
 function Header({ name }) {
   return (
